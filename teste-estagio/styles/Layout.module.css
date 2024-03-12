@@ -1,0 +1,48 @@
+.layout {
+    min-height: 60vh;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: large;
+    padding: 5px 15px;
+}
+
+.logoContainer {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    margin: 0;
+}
+
+.logo a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.logo a:hover {
+    color: #474747;
+}
+
+.buttonsContainer {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.buttonsContainer button {
+    background-color: #228fce;
+    width: 100px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.main {
+    align-items: center;
+    align-content: center;
+}

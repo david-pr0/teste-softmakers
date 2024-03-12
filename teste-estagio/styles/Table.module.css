@@ -1,0 +1,19 @@
+.table{
+    background: linear-gradient(to bottom right, #062e66 2%, #031c41 15%, #00060F 30%,#00060F 70%, #031c41 85%, #062e66 98%);
+    border: 10px;
+    border-color: azure;
+    margin: 10px solid azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+    height: 33%;
+    padding: 20px;
+    border-radius: 10px;
+    flex-direction: column;
+    align-content: center;
+}
+
+.title {
+    text-align: center;
+}

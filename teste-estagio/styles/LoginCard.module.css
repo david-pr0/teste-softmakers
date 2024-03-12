@@ -1,0 +1,18 @@
+.logincard {
+    background: linear-gradient(to bottom, #062e66 2%, #031c41 10%, #00060F 20%,#00060F 80%, #031c41 90%, #062e66 98%);
+    border: 10px;
+    border-color: azure;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    flex-direction: column;
+    align-content: center;
+}
+
+.title {
+    text-align: center;
+}
